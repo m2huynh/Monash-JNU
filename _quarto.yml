@@ -1,0 +1,12 @@
+project:
+  type: default
+  output-dir: docs
+
+title: "ETC1000 Workshop7_Alternate"
+format:
+  live-html:
+    theme: flatly
+    toc: true
+  
+
+engine: knitr
