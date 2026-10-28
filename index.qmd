@@ -659,4 +659,57 @@ ggplot(data = income_data2,
 
 ***
 
+Here are more code chunks if needed:
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
+```{webr}
+
+```
+
+
 
